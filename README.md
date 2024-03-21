@@ -1,2 +1,2 @@
 # ChangePicture
-Pictures have to change one to another
+Pictures have to be changed one to another
